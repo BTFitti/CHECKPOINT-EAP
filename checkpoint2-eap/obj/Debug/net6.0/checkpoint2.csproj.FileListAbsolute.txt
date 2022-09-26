@@ -1,0 +1,30 @@
+C:\A\checkpoint2\obj\Debug\net6.0\checkpoint2.csproj.AssemblyReference.cache
+C:\A\checkpoint2\obj\Debug\net6.0\checkpoint2.GeneratedMSBuildEditorConfig.editorconfig
+C:\A\checkpoint2\obj\Debug\net6.0\checkpoint2.AssemblyInfoInputs.cache
+C:\A\checkpoint2\obj\Debug\net6.0\checkpoint2.AssemblyInfo.cs
+C:\A\checkpoint2\obj\Debug\net6.0\checkpoint2.csproj.CoreCompileInputs.cache
+C:\A\checkpoint2\bin\Debug\net6.0\checkpoint2.exe
+C:\A\checkpoint2\bin\Debug\net6.0\checkpoint2.deps.json
+C:\A\checkpoint2\bin\Debug\net6.0\checkpoint2.runtimeconfig.json
+C:\A\checkpoint2\bin\Debug\net6.0\checkpoint2.dll
+C:\A\checkpoint2\bin\Debug\net6.0\checkpoint2.pdb
+C:\A\checkpoint2\obj\Debug\net6.0\checkpoint2.dll
+C:\A\checkpoint2\obj\Debug\net6.0\refint\checkpoint2.dll
+C:\A\checkpoint2\obj\Debug\net6.0\checkpoint2.pdb
+C:\A\checkpoint2\obj\Debug\net6.0\checkpoint2.genruntimeconfig.cache
+C:\A\checkpoint2\obj\Debug\net6.0\ref\checkpoint2.dll
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\bin\Debug\net6.0\checkpoint2.exe
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\bin\Debug\net6.0\checkpoint2.deps.json
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\bin\Debug\net6.0\checkpoint2.runtimeconfig.json
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\bin\Debug\net6.0\checkpoint2.dll
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\bin\Debug\net6.0\checkpoint2.pdb
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\checkpoint2.csproj.AssemblyReference.cache
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\checkpoint2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\checkpoint2.AssemblyInfoInputs.cache
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\checkpoint2.AssemblyInfo.cs
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\checkpoint2.csproj.CoreCompileInputs.cache
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\checkpoint2.dll
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\refint\checkpoint2.dll
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\checkpoint2.pdb
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\checkpoint2.genruntimeconfig.cache
+D:\Nova pasta\checkpoint2-enterprise\checkpoint2\obj\Debug\net6.0\ref\checkpoint2.dll
